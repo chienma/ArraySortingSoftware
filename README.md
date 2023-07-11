@@ -14,11 +14,6 @@ Phần mềm tạo mảng chữ cái ngẫu nhiên sau đó bạn có thể sắ
 - Sử dụng JavaFX để tạo GUI
 - Sử dụng IDE IntelliJ IDEA
 - Dùng thư viện org.apache.commons.lang3 để tạo chuỗi ngẫu nhiên, so sánh chuỗi theo thứ tự từ điển (A→Z→a→z) và tính toán thời gian thực hiện thuật toán.
-- Sử dụng Launch4j để tạo file .exe từ file .jar
-### 1.4. Cài đặt và sử dụng
-- Đảm bảo máy tính đã cài đặt JDK (Java Development Kit)
-- Nếu chưa cài JDK, download tại đây.
-- Chạy file "Ma Dinh Chien - Intern Test.exe" hoặc "Ma Dinh Chien - Intern Test.jar" trong thư mục "App".
 ## 2. Các thuật toán sắp xếp được sử dụng
 - Selection Sort
 - Bubble Sort
